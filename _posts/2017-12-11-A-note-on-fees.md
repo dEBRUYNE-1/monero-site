@@ -79,7 +79,7 @@ One might ask oneself, how does the dynamic fee algorithm come into play? First,
 
 Let's examine the dynamic fee algorithm:  
 
-**Fee = (R/R<sub>0</sub>) * (M<sub>0</sub>/M) * F0**  
+**Fee = (R/R<sub>0</sub>) * (M<sub>0</sub>/M) * F<sub>0</sub>**  
 
 Where:  
 
