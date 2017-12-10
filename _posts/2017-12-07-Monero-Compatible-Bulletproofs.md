@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Monero Compatible Bulletproofs
+title: A note on fees
 tags: [crypto, mrl, dev]
-author: Sarang Noether
+author: dEBRUYNE / ArticMine
 ---
 
 Lately, a common reoccurring complaint has been that fees are too expensive. Whilst we don't disagree with that statement, we have to thoroughly analyze the situation first. Furthermore, the notion of devs having to release new binaries with lower fees is myopic, because (i) it'd merely kick the can down the road, (ii) changing the constants or formulas requires a hard fork, i.e., they are enforced on a consensus level, and (iii) constantly intervening would be contradictory to our grass-roots, decentralized nature.   
