@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 title: A note on fees
+summary: - 
 tags: [crypto, mrl, dev]
 author: dEBRUYNE & ArticMine
 ---
@@ -71,7 +72,7 @@ Reducing the transaction size with approximately 80%, but keeping the same minim
 
 `Penalty` = (5.7 * ((105/100)-1)², which yields ~0.014 XMR or ~0.007 XMR per typical transaction.   
 
-You can graph all the outcomes by setting M<sub>N</sub> to `x` and `BlockSize` to `x+5`.   
+You can graph all the outcomes by setting `M<sub>N</sub>` to `x` and `BlockSize` to `x+5`.   
 
 -----------------  
 
