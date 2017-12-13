@@ -152,7 +152,7 @@ An overview can be found on [MoneroBase](https://monerobase.com/wiki/DevMeeting_
 **\<hotoatmeal>** moneromooo: what still needs doing / deciding on your part of the memwipe ones, and how can I help there?  
 **\<moneromooo>** Mainly deciding whether we want to, or not.  
 **\<moneromooo>** And bitcoin has two RNGs, the one I ported, and one that's closer to what we have. so there's the possibility of entropy attrition using only the "good" one.  
-**\<moneromooo>** hotoatmeal: the only thing left IIRC was switching from std::vector**\<char>** to std::unique\_ptr\**\<char[]>** and I feel more confident getting it right with vector.  
+**\<moneromooo>** hotoatmeal: the only thing left IIRC was switching from std::vector\<char> to std::unique\_ptr\<char[]>** and I feel more confident getting it right with vector.  
 **\<moneromooo>** Other than that, nothing I think.  
 **\<fluffypony>** moneromooo: by "good" one you mean the ported one?  
 **\<moneromooo>** That can be done later by someoine who's familiar with how the refcounting works with operators though.  
@@ -170,7 +170,7 @@ An overview can be found on [MoneroBase](https://monerobase.com/wiki/DevMeeting_
 **\<fluffypony>** and the stream one for range proofs  
 **\<moneromooo>** Well, if I knew that, I'd know the answer to my question, since they're opposites.  
 **\<moneromooo>** Anyway, to go back to multisig, I tihnk it's good to go now. If you haven't yet reviewed it, and want to do so, do so now.  
-**\<* hotoatmeal** drops out  
+**\* hotoatmeal** drops out  
 **\<fluffypony>** ok  
 **\<fluffypony>** 4. Any additional meeting items  
 **\<moneromooo>** When do we want bulletproofs on testnet ?  
@@ -190,7 +190,7 @@ An overview can be found on [MoneroBase](https://monerobase.com/wiki/DevMeeting_
 **\<sarang>** (provided we define the Gi and Hi in the same order)  
 **\<sarang>** (not sure if my extended code addressed that, will check)  
 **\<moneromooo>** So, no clear votes for or against. Except me ^\_^ so that's 100% of expressed votes :P  
-**\<* sarang** checks the math on that  
+**\* sarang** checks the math on that  
 **\<fluffypony>** moneromooo: I asked how it would work  
 **\<moneromooo>** The fork ? I imagine similar to rct. Allow bulletproofs at fork f, optionally disallow borromean at f+1.  
 **\<moneromooo>** (the code currently does not do that second part)  

@@ -216,7 +216,7 @@ author: dEBRUYNE / fluffypony
 **\<fluffypony>** I unfortunately wouldn't have been able to continue the discussion anyway, I'm busy fixing MyMonero problems  
 **\<ErCiccione>** sure, but this shows that the problem actually exist. This happened and will happen with other subjects. We need to find a way to optimize and don't cut these discussions  
 **\<endogenic>** ErCiccione: can't anyone bring up the issue when they want and ping the involved parties?  
-**\<endogenic>** involved ->** interested even  
+**\<endogenic>** involved -> interested even  
 **\<ErCiccione>** that doesn't solve the problem. A discussion flows during a meeting, but if it gets interrupted is gonna be hard to remake the logical processes. Meetings are the place for this kind of discussions, it's psicologically hard to restart this conversations with the same intention, the feeling of "officiality" get lost. this means that another meeting will be necessary to make the discussion official. I don't know if i explained  
 **\<ErCiccione>** well my point  
 **\<ErCiccione>** but this is my opinion, if i'm the only one feeling the problem, we can just keep going like this. I still think a lot of time will be wasted though  
