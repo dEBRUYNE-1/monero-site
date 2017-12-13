@@ -144,7 +144,7 @@ author: dEBRUYNE / fluffypony
 **\<suraeNoether>** what do you mean by that?  
 **\<sarang>** And a solid general approach to it would help address future developments that affect size vs computation time  
 **\<ArticMine>** Purchasing power of Monero should scale with the number to outputs  
-**\<luigi1111w>** **\<suraeNoether>** yep. however... what has been banging around in my head is to take all the improved cost of verification and dump it into larger ring signatures **\<= I disagree. Of course there's no perfect answer, but cpu cost is currently quite on the high side IMO, and I'd like to see it lower overall.  
+**\<luigi1111w>** \<suraeNoether> yep. however... what has been banging around in my head is to take all the improved cost of verification and dump it into larger ring signatures \<= I disagree. Of course there's no perfect answer, but cpu cost is currently quite on the high side IMO, and I'd like to see it lower overall.  
 **\<ArticMine>** So we may have to scale the output part of the fee with the total number of outputs in the block as opposed to the blocksize  
 **\<ArticMine>** Essentially two fee components one size based and one output based  
 **\<suraeNoether>** ArticMine: i will need to think about that. i think computing expected verification time of a transaction should be very simple, and is a more direct measurement of how much the miner is burning on that transaction  
