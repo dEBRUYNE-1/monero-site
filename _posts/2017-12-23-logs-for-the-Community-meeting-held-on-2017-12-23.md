@@ -85,7 +85,7 @@ author: dEBRUYNE / fluffypony
 **\<ErCiccione>** Yes, i guess it would. or we can enforce the use of the same nick you use on reddit for the forum, if you want the flair  
 **\<rehrar>**  Spreadsheet would be necessary.  
 **\<sgp>** Yeah, just make something cool/cute and go with it  
-**\<sgp>** Donate $1m to a single project ->** "itsy bitsy supporter" :D  
+**\<sgp>** Donate $1m to a single project -> "itsy bitsy supporter" :D  
 **\<sgp>** Anything else you want to discuss about this idea?  
 **\<ErCiccione>** lol, no should be enough.  
 **\<sgp>** Ok @netg  

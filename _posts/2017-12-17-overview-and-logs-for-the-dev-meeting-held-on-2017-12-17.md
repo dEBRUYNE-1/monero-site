@@ -110,7 +110,7 @@ An overview can be found on [MoneroBase](https://monerobase.com/wiki/DevMeeting_
 **\<suraeNoether>** yeah, i mean  
 **\<suraeNoether>** luigi1111w: sarang will be able to answer them tomorrow afaik.  
 **\<rehrar>** Is the chance of finding meaningful vulnerabilities that much greater if we extend it out to September hard fork? Like, would the extra six months be an adequate amount of time if it was determined that the three months between now and March hardfork wasn't sufficient?  
-**\<suraeNoether>** ^ this is actually sort of the tough spot we find ourselves in  
+**\<suraeNoether>** \^ this is actually sort of the tough spot we find ourselves in  
 **\<suraeNoether>** thing is, there isn't a real monetary incentive to attack something like BP while its on testnet  
 **\<luigi1111w>** attacking it on mainnet is catastrophic, however  
 **\<suraeNoether>** yep  
@@ -221,12 +221,12 @@ An overview can be found on [MoneroBase](https://monerobase.com/wiki/DevMeeting_
 **\<suraeNoether>** fluffypony: I think dEBRUYNE may have thought about fee structures more than anyone else  
 **\<fluffypony>** yes  
 **\<luigi1111w>** JollyMort[m] :)  
-**\<dEBRUYNE>** ^ would certainly beat me :P  
+**\<dEBRUYNE>** \^ would certainly beat me :P  
 **\<suraeNoether>** fair  
 **\<endogenic>** is it worth writing a paper on fee structure modeling etc?  
 **\<luigi1111w>** longer term I think yes  
 **\<luigi1111w>** but we certainly don't have time for march  
-**\<dEBRUYNE>** Perhaps we could change the penalty exponent to ^3 instead of ^2  
+**\<dEBRUYNE>** Perhaps we could change the penalty exponent to \^3 instead of \^2  
 **\<fluffypony>** suraeNoether: what would your comfort level change to if one or more of the paper's authors reviewed the implementation?  
 **\<suraeNoether>** fluffypony: no, the implementation isn't the concern at all, in my mind at least  
 **\<suraeNoether>** assuming it's passing unit tests  
@@ -234,7 +234,7 @@ An overview can be found on [MoneroBase](https://monerobase.com/wiki/DevMeeting_
 **\<moneromooo>** It is.  
 **\<dEBRUYNE>** What if the paper itself is "broken"? Only time will tell that I guess  
 **\<suraeNoether>** there ya go. the question is whether or not someone clever can divide by zero and cause a big monero bang with bullet proofs .  
-**\<suraeNoether>** dEBRUYNE:  ^ exactly  
+**\<suraeNoether>** dEBRUYNE:  \^ exactly  
 **\<suraeNoether>** the best test for crypto is time  
 **\<rehrar>** will an aggressive 'test bps on testnet' campaign do anything?  
 **\<luigi1111w>** no  
@@ -262,7 +262,7 @@ An overview can be found on [MoneroBase](https://monerobase.com/wiki/DevMeeting_
 **\<vtnerd>** unedited supercop code is all that is now  
 **\<luigi1111w>** cool  
 **\<pigeons>** pre-borromean ringct signature issue was found by 3rd party (and/after the monero team), so people do look at non-mainnet code. and also that incident shows how short timelines are scary  
-**\<endogenic>** ^  
+**\<endogenic>** \^  
 **\<fluffypony>** also msvb-mob wanted to say a couple of things about the HW wallet  
 **\<suraeNoether>** pigeons: that's an extremely good point  
 **\<msvb-mob>** Hardware team achieved a breakthrough today in manipulating the MCU factory bootloader without programming.  
