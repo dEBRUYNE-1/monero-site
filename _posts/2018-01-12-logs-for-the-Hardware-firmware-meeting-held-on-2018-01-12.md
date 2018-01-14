@@ -103,7 +103,7 @@ author: dEBRUYNE / fluffypony
 **\<luigi1111w>** and quite an upgrade  
 **\<luigi1111w>** well it all depends on perspective :)  
 **\<endogenic>** :)  
-**\<luigi1111w>** the most secure/private arrangement would be user owned daemon->**wallet/client->**hw  
+**\<luigi1111w>** the most secure/private arrangement would be user owned daemon -> wallet/client -> hw  
 **\<luigi1111w>** but you can delegate the first two for privacy loss  
 **\<luigi1111w>** well the first one isn't really privacy loss  
 **\<i-a>** our nordic semiconductor candidate has ed25519 hw block, but we still didnt get them.  
@@ -153,9 +153,9 @@ author: dEBRUYNE / fluffypony
 **\<luigi1111w>** signing and verifying sorta-mostly-ish include all the operations needed  
 **\<luigi1111w>** I guess that's not really true  
 **\<luigi1111w>** but the operations that need accelerated would be, mostly  
-**\<m2049r[m]>** the data sheets says  
-**\<m2049r[m]>** >** Elliptic Curve point multiply with Curve25519  
-**\<m2049r[m]>** >** The Edwards-curve Digital Signature Algorithm (EdDSA), using Curve25519  
+**\<m2049r[m]>** the data sheets says:  
+**\<m2049r[m]>** Elliptic Curve point multiply with Curve25519  
+**\<m2049r[m]>** The Edwards-curve Digital Signature Algorithm (EdDSA), using Curve25519  
 **\<m2049r[m]>** (CEC1702)  
 **\<iDunk>** ed25519 != Curve25519.  
 **\<i-a>** nRF does both i think  
@@ -180,7 +180,7 @@ author: dEBRUYNE / fluffypony
 **\<luigi1111w>** to attempt to "do everyone on device", yes (and I'm doubtful it's possible)  
 **\<luigi1111w>** to do a client-delegated arrangement, no  
 **\<hotoatmeal>** these slides say they can do ~1400 ECDH's /s on a cortex A8: https://cr.yp.to/talks/2012.11.29/slides.pdf  
-**\<msvb-mob>** i-a: The ED25519 API is on pages 60-61 of the CEC/MEC Family Devices ROM API User’s Guide.  
+**\<msvb-mob>** i-a: The ED25519 API is on pages 60-61 of the CEC/MEC Family Devices ROM API Users Guide.  
 **\<i-a>** msvb-mob: thank you,)  
 **\<msvb-mob>** For example ed25519\_valid\_sig (validate signature) is a function.  
 **\<hotoatmeal>** and Ed25519 was only a bit slower  
@@ -269,7 +269,7 @@ author: dEBRUYNE / fluffypony
 **\<m2049r[m]>** you are saying to have the device connect to an openmonero instance?  
 **\<luigi1111w>** or maybe just rainbows and unicorns  
 **\<endogenic>** m2049r[m]: no  
-**\<endogenic>** i was envisioning some sort of stripped down protocol … vtnerd and i are working on that anyway in the api overhaul  
+**\<endogenic>** i was envisioning some sort of stripped down protocol...vtnerd and i are working on that anyway in the api overhaul  
 **\<m2049r[m]>** ok, what are you saying?  
 **\<luigi1111w>** he's talking about mymonero not openmonero  
 **\<endogenic>** so if you're running your own local server  
@@ -380,3 +380,7 @@ author: dEBRUYNE / fluffypony
 **\<luigi1111w>** you have to use txs  
 **\<luigi1111w>** are those current numbers  
 **\<luigi1111w>** what will it look like if usage goes up (which it historically has)  
+**\<luigi1111w>** I personally don't really see a lot of benefit for disclosing the viewkey  
+**\<cslashm>** yes for each txes. basically scan involves get\_key\_derivation and generate\_key\_image, those two op are done by the device. The rest is done by the PC as usual  
+**\<cslashm>** view key is so never disclose  
+**\<cslashm>** So, I need to leave. Be back on monday. you can mail, PM reddit or put githib issue if you need long tech desc  
