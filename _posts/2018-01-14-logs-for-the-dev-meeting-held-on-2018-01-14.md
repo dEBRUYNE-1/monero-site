@@ -269,7 +269,7 @@ author: dEBRUYNE / fluffypony
 **\<dEBRUYNE>** Because they can only use the last transaction for the penalty  
 **\<luigi1111w>** well I'm pretty sure that was originally according to me :)  
 **\<dEBRUYNE>** So you can't have 23 min fee txes and then one default  
-**\<binaryFate>** **\<ArticMine>** One option change the wallet default to the min fee \<-- +1  
+**\<binaryFate>** \<ArticMine> One option change the wallet default to the min fee \<-- +1  
 **\<endogenic>** isn't that a bad idea? \^  
 **\<moneromooo>** It is.  
 **\<luigi1111w>** it's an idea  

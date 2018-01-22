@@ -256,7 +256,7 @@ author: dEBRUYNE / fluffypony
 **\<rbrunner>** I know, some things do not technically need a hard fork, but a hard fork forces updates, which is nice  
 **\<medusa>** we use hardforks to force ppl to upgrade the software..this has an effect on support work on redit, relegram etc. thats the main reason  
 **\<sgp>** Which I don't think will happen  
-**\<suraeNoether>** "And I think the precedent argument is pretty weak. Last year, the community agreed upon moving the date of one hardfork and adding another" **\<-- you just used precedent to demonstrate that precedents don't matter?  
+**\<suraeNoether>** "And I think the precedent argument is pretty weak. Last year, the community agreed upon moving the date of one hardfork and adding another" \<-- you just used precedent to demonstrate that precedents don't matter?  
 **\<suraeNoether>** and btw this is exactly the discussion that we wanted to avoid with the HFs...  "So my vote is to either have another hardfork after the BP review, or to push back the March hardfork if there's no real reason to have a hardfork in March for another feature" **\<--- we hard fork twice a year, how much is enough?  
 **\<pebx>** i can say you as of telegram: people are really expecting BP or at least lower fees... but lowering the fees manually is in my opinion some kind of doctoring around without a real scop  
 **\<sgp>** I'm saying your argument of needing to stick with precedent should be more flexible  
@@ -417,7 +417,7 @@ author: dEBRUYNE / fluffypony
 **\<sarang>** We're definitely not the only ones interested in BPs, so there will be good  eyes on it going forward  
 **\<thrmo>** as rehrar pointed above, money, freedom and lives are at stake.  
 **\<sgp>** We discussed this in previous meetings. There's always an argument to wait. If the community wants more review on the math, we should get an audit of that too  
-**\<gingeropolous>** thrmo>** Hard forks momentarily weaken the security of the network >**>**>** what?  
+**\<gingeropolous>** \<thrmo> Hard forks momentarily weaken the security of the network \<= what?  
 **\<thrmo>** gingeropolous, Node count drops, hashrate drops, etc  
 **\<suraeNoether>** thrmo we are modifying fees in the next hf so its not merely to accommodate schedules  
 **\<sgp>** If we knew of researchers in the process of looking at the math I would agree with you, but it seems odd to wait in hopes someone is looking at it  
