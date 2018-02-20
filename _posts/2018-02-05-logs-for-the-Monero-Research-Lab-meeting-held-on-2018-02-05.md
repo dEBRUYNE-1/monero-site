@@ -260,7 +260,7 @@ author: dEBRUYNE / fluffypony
 **\<suraeNoether>** diego no, 2019  
 **\<suraeNoether>** OH MY GOD i just checked my protonmail after BPASE, i'm swamped  
 **\<suraeNoether>** ok, this meeting is either over or can continue without me  
-**\<suraeNoether>** peace out brothers~!  
+**\<suraeNoether>** peace out brothers\~!  
 **\<suraeNoether>** if anyone has any questions, please email me at suraeNoether@Protonmail.com (I'll be there for the rest of the day apparently)  
 **\<sgp>** I couldn't find the recording, but here's hyc's slides https://fosdem.org/2018/schedule/event/monero/attachments/audio/2585/export/events/attachments/monero/audio/2585/20180204_FOSDEM_Monero.pdf  
 **\<sarang>** cheers  
@@ -307,7 +307,7 @@ author: dEBRUYNE / fluffypony
 **\<sarang>** Once I get final word from all OSTIF prospects, we'll have a better idea of any differences in scope  
 **\<sarang>** What they care about more than absolute price estimates is their rates  
 **\<sarang>** FWIW  
-**\<suraeNoether>** on a slightly different note, all the slides and videos of the talks at BPASE this year are online here: https://cyber.stanford.edu/bpase18 **\<--- I highly recommend @roasbeef's talk, but slow it down to 50% speed  
+**\<suraeNoether>** on a slightly different note, all the slides and videos of the talks at BPASE this year are online here: https://cyber.stanford.edu/bpase18 \<--- I highly recommend @roasbeef's talk, but slow it down to 50% speed  
 **\<sarang>** lol  
 **\<sarang>** it's true  
 **\<sarang>** He would make a fantastic auctioneer  

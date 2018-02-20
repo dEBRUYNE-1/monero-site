@@ -69,7 +69,7 @@ author: dEBRUYNE / fluffypony
 **\<sarang>** lol  
 **\<sgp>** I don't really know what the right amount is  
 **\<endogenic>** no pony heads though pls  
-**\<sarang>** I'm thinking a rate of 800 USD per day would be competitive if it only takes him ~5 days or so  
+**\<sarang>** I'm thinking a rate of 800 USD per day would be competitive if it only takes him \~5 days or so  
 **\<sarang>** He's the most qualified person to do this  
 **\<endogenic>** then that's cheap  
 **\<endogenic>** we're lucky  
@@ -120,7 +120,7 @@ author: dEBRUYNE / fluffypony
 **\<moneromooo>** Those (software) miners just update. Any ASIC can't.  
 **\<endogenic>** even if it's modular?  
 **\<moneromooo>** What is a modular ASIC ?  
-**\<endogenic>** it ->** asic  
+**\<endogenic>** it -> asic  
 **\<msvb-mob>** pigeons moneromooo: We in the hardware team are onboard with PoW changes but cannot recall all hardware wallets worldwide to swap chips.  
 **\<endogenic>** modular hardware  
 **\<moneromooo>** You have hardware mining ?  

@@ -145,7 +145,7 @@ author: dEBRUYNE / fluffypony
 **\<sgp>** Perhaps, it is a social attack after all  
 **\<suraeNoether>** if half of your ring members don't know what to do and spend their shit on both forks in a sloppy way, then your effective ring size shrinks in a chain reaction  
 **\<suraeNoether>** because their output is now provably spent and can be removed from any rings referencing it  
-**\<sgp>** And with ringsize 5, you would have to expect ~2/3 of transactions on MoneroV to use that tool  
+**\<sgp>** And with ringsize 5, you would have to expect \~2/3 of transactions on MoneroV to use that tool  
 **\<suraeNoether>** sounds about correct. seems like a real easy way to part fools from their money. fluffypony don't we have a public relations firm now?  
 **\<suraeNoether>** monerov is a pretty brilliant social attack. probably not state actors because the result is a public de-anonymization instead of secretly gathering intel, but pretty brilliant  
 **\<suraeNoether>** i could be convinced its the cryptonote guys  
@@ -169,7 +169,7 @@ author: dEBRUYNE / fluffypony
 **\<andytoshi>** gsee: yes but you'll need provisions or something  
 **\<andytoshi>** oh, no, just a view key + the public blockchain will be enough  
 **\<suraeNoether>** it would probably be sufficient to reveal to an auditor the private transaction key for each transaction, but that reveals a lot more information to the auditor than if you reveal the key images that you've spent  
-**\<moneromooo>** You see all incoming monero along with block heights, and you can scan the chain for the height a key image was spent, if any. So yes. The DB has no index for key image ->** height-or-tx though, so slow.  
+**\<moneromooo>** You see all incoming monero along with block heights, and you can scan the chain for the height a key image was spent, if any. So yes. The DB has no index for key image -> height-or-tx though, so slow.  
 **\<iDunk>** If he spent from tha wallet, then change would appear as new income.  
 **\<suraeNoether>** i imagine in most *legal* situations gsee, you could merely present a screenshot of your wallet balance  
 **\<suraeNoether>** tbh  
