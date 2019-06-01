@@ -5,7 +5,7 @@ tags: [dev, core, crypto]
 author: dEBRUYNE
 ---
 
-This blog sets out the multiple counting bug, of which two variants existed. The goal of this blog post is to provide a detailed explanation of aforementioned bug, how it was used to exploit services, merchants, and exchanges, and how it was handled by the Monero (dev) community.
+Thiis blog sets out the multiple counting bug, of which two variants existed. The goal of this blog post is to provide a detailed explanation of aforementioned bug, how it was used to exploit services, merchants, and exchanges, and how it was handled by the Monero (dev) community.
 
 The multiple counting bug, of which two variants existed, was introduced in conjunction with the subaddress feature, which required a different (code) structure of the transaction public key. The first variant of the bug is basically that the code didn't impose a check to guard against duplicate public keys. Therefore, an attacker could create a transaction in which the transaction public key was included multiple times, thereby duplicating the particular transaction public key. As a result, the receiving wallet would report that it had received `x` times (where `x` is an integer that represents the number of identical transaction public keys) the amount it had actually received. All commands that report incoming transactions (e.g. `show_transfers` (CLI), `get_transfers` (RPC)) were affected. The balance, however, was not affected, i.e., the wallet would still report the balance properly. Alas, most exchanges utilize the `get_transfers` or `get_payments` wallet RPC command, which would, in case of duplicate transaction public keys, return an erroneous amount. 
 
